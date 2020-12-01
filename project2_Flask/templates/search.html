@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Search</title>
+<!--    <link rel="stylesheet" href="/project2_Flaskm/static/project.css">-->
+</head>
+<body>
+    <h1>Search By Date</h1>
+    <form action="" method="POST" name="sample">
+        {{form.csrf_token}}
+        {{form.hidden_tag()}}
+        <p>Full Name :
+            {{form.full_name()}}
+        </p>
+        <p>Search up-to-the-minute stream of published articles by source and source:</p>
+        <p>
+            Source :
+            {{form.source()}}
+        </p>
+
+        <p>
+            Section :
+            {{form.section()}}
+        </p>
+
+        <p>
+            <input type="submit" value="Submit">
+        </p>
+
+    </form>
+</body>
+</html>

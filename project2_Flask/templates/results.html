@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Results</title>
+</head>
+<body>
+    <h1>These are the published articles found according to the source and section you selected:</h1>
+    <a href="{{ url_for('search') }}" class="button-8 w-button">Back to Search</a>
+    <p>
+
+    </p>
+    {% for i in response %}
+    {{ i }}
+        <br>
+    {% endfor %}
+
+</body>
+</html>

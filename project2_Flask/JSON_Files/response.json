@@ -1,0 +1,1261 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company.  All Rights Reserved.",
+  "num_results": 500,
+  "results": [
+    {
+      "slug_name": "30virus-49ers",
+      "section": "Sports",
+      "subsection": "N.F.L.",
+      "title": "As Virus Upends N.F.L. Schedule, Games Shift to Odd Landing Spots",
+      "abstract": "The Ravens and Steelers will play on Wednesday afternoon and the 49ers announced the team will relocate to Arizona for two December games as the coronavirus surge derails pro football\u2019s regular season.",
+      "url": "https://www.nytimes.com/2020/11/30/sports/football/san-francisco-49ers-arizona-stadium.html",
+      "byline": "BY KEN BELSON",
+      "thumbnail_standard": "https://static01.nyt.com/images/2020/11/30/sports/30virus-49ers-nfl/30virus-49ers-nfl-thumbStandard.jpg",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2020-11-30T21:43:51-05:00",
+      "created_date": "2020-11-30T16:12:04-05:00",
+      "published_date": "2020-11-30T16:12:04-05:00",
+      "first_published_date": "2020-11-30T16:12:04-05:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Football"
+      ],
+      "org_facet": [
+        "Arizona Cardinals",
+        "San Francisco 49ers",
+        "National Football League"
+      ],
+      "per_facet": null,
+      "geo_facet": [
+        "Santa Clara County (Calif)"
+      ],
+      "related_urls": null,
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/30/sports/30virus-49ers-nfl/30virus-49ers-nfl-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Pittsburgh Steelers\u2019 game against the Baltimore Ravens will be moved back one day, to Wednesday, the third time the A.F.C. North matchup has been postponed in six days.",
+          "copyright": "Patrick Smith/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/30/sports/30virus-49ers-nfl/30virus-49ers-nfl-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Pittsburgh Steelers\u2019 game against the Baltimore Ravens will be moved back one day, to Wednesday, the third time the A.F.C. North matchup has been postponed in six days.",
+          "copyright": "Patrick Smith/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/30/sports/30virus-49ers-nfl/30virus-49ers-nfl-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Pittsburgh Steelers\u2019 game against the Baltimore Ravens will be moved back one day, to Wednesday, the third time the A.F.C. North matchup has been postponed in six days.",
+          "copyright": "Patrick Smith/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/30/sports/30virus-49ers-nfl/30virus-49ers-nfl-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Pittsburgh Steelers\u2019 game against the Baltimore Ravens will be moved back one day, to Wednesday, the third time the A.F.C. North matchup has been postponed in six days.",
+          "copyright": "Patrick Smith/Getty Images"
+        }
+      ]
+    },
+    {
+      "slug_name": "30nyrr-ceo",
+      "section": "Sports",
+      "subsection": "",
+      "title": "New York Road Runners Parts Ways With C.E.O. Amid Workplace Complaints",
+      "abstract": "Michael Capiraso led the organization that puts on the New York City Marathon to record revenues but will leave after employees and others raised concerns about his leadership.",
+      "url": "https://www.nytimes.com/2020/11/30/sports/new-york-marathon-capiraso-diversity.html",
+      "byline": "BY MATTHEW FUTTERMAN AND GILLIAN R. BRASSIL",
+      "thumbnail_standard": "https://static01.nyt.com/images/2020/12/01/sports/30nyrr-ceo-print/30nyrr-ceo-web-1-thumbStandard.jpg",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2020-11-30T19:29:38-05:00",
+      "created_date": "2020-11-30T09:01:06-05:00",
+      "published_date": "2020-11-30T09:01:06-05:00",
+      "first_published_date": "2020-11-30T09:01:06-05:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": [
+        "Running",
+        "New York City Marathon",
+        "Appointments and Executive Changes",
+        "Black People",
+        "Black Lives Matter Movement",
+        "Workplace Environment"
+      ],
+      "org_facet": [
+        "New York Road Runners Club"
+      ],
+      "per_facet": [
+        "Capiraso, Michael Paul"
+      ],
+      "geo_facet": [
+        "New York City"
+      ],
+      "related_urls": null,
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/01/sports/30nyrr-ceo-print/30nyrr-ceo-web-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "&ldquo;I understand what the board is saying, that they are making a decision after having listened to people,&rdquo; Michael Capiraso, the chief executive of New York Road Runners, said in an interview.",
+          "copyright": "Karsten Moran for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/12/01/sports/30nyrr-ceo-print/30nyrr-ceo-web-1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "&ldquo;I understand what the board is saying, that they are making a decision after having listened to people,&rdquo; Michael Capiraso, the chief executive of New York Road Runners, said in an interview.",
+          "copyright": "Karsten Moran for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/12/01/sports/30nyrr-ceo-print/30nyrr-ceo-web-1-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "&ldquo;I understand what the board is saying, that they are making a decision after having listened to people,&rdquo; Michael Capiraso, the chief executive of New York Road Runners, said in an interview.",
+          "copyright": "Karsten Moran for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/12/01/sports/30nyrr-ceo-print/merlin_95280755_2480edc4-41c3-45d8-917a-a989f63d7d1b-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "&ldquo;I understand what the board is saying, that they are making a decision after having listened to people,&rdquo; Michael Capiraso, the chief executive of New York Road Runners, said in an interview.",
+          "copyright": "Karsten Moran for The New York Times"
+        }
+      ]
+    },
+    {
+      "slug_name": "30nfl-late",
+      "section": "Sports",
+      "subsection": "",
+      "title": "Brady Puts Up a Fight, but It\u2019s Mahomes and the Chiefs\u2019 Day",
+      "abstract": "Tyreek Hill had a career day against the Buccaneers with 13 receptions for 269 receiving yards and three touchdowns.",
+      "url": "https://www.nytimes.com/2020/11/30/sports/buccaneers-chiefs-tom-brady-patrick-mahomes.html",
+      "byline": "BY BILL PENNINGTON",
+      "thumbnail_standard": "https://static01.nyt.com/images/2020/11/30/sports/30nfl-lateSUB/merlin_180619026_d5a0c3f1-e6a8-4d26-9145-7ed0289e404b-thumbStandard.jpg",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2020-11-30T09:24:38-05:00",
+      "created_date": "2020-11-30T08:01:12-05:00",
+      "published_date": "2020-11-30T08:01:12-05:00",
+      "first_published_date": "2020-11-30T08:01:12-05:00",
+      "material_type_facet": "News",
+      "kicker": "Chiefs 27, Buccaneers 24",
+      "subheadline": "",
+      "des_facet": [
+        "Football"
+      ],
+      "org_facet": [
+        "Tampa Bay Buccaneers",
+        "Kansas City Chiefs"
+      ],
+      "per_facet": [
+        "Hill, Tyreek (1994- )",
+        "Mahomes, Patrick (1995- )",
+        "Brady, Tom"
+      ],
+      "geo_facet": null,
+      "related_urls": null,
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/30/sports/30nfl-lateSUB/merlin_180619026_d5a0c3f1-e6a8-4d26-9145-7ed0289e404b-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Patrick Mahomes throws to Tyreek Hill for one of their three touchdowns.",
+          "copyright": "Kim Klement/USA Today Sports, via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/30/sports/30nfl-lateSUB/merlin_180619026_d5a0c3f1-e6a8-4d26-9145-7ed0289e404b-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Patrick Mahomes throws to Tyreek Hill for one of their three touchdowns.",
+          "copyright": "Kim Klement/USA Today Sports, via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/30/sports/30nfl-lateSUB/merlin_180619026_d5a0c3f1-e6a8-4d26-9145-7ed0289e404b-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Patrick Mahomes throws to Tyreek Hill for one of their three touchdowns.",
+          "copyright": "Kim Klement/USA Today Sports, via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/30/sports/30nfl-lateSUB/merlin_180619026_d5a0c3f1-e6a8-4d26-9145-7ed0289e404b-articleInline.jpg",
+          "format": "Normal",
+          "height": 133,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Patrick Mahomes throws to Tyreek Hill for one of their three touchdowns.",
+          "copyright": "Kim Klement/USA Today Sports, via Reuters"
+        }
+      ]
+    },
+    {
+      "slug_name": "30gymnastics-haney",
+      "section": "Sports",
+      "subsection": "Olympics",
+      "title": "A Gymnastics Coach Accused of Emotional Abuse Speaks Out",
+      "abstract": "In her first public remarks since being suspended from the sport for eight years, Maggie Haney disputed accusations that led to her punishment but said she could now see flaws in the way she treated some young athletes.",
+      "url": "https://www.nytimes.com/2020/11/30/sports/olympics/gymnastics-abuse-laurie-hernandez-haney.html",
+      "byline": "BY JULIET MACUR",
+      "thumbnail_standard": "https://static01.nyt.com/images/2020/11/30/sports/30gymnastics-haney1-print/30gymnastics-haney1-print-thumbStandard.jpg",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2020-11-30T13:08:33-05:00",
+      "created_date": "2020-11-30T03:00:09-05:00",
+      "published_date": "2020-11-30T03:00:09-05:00",
+      "first_published_date": "2020-11-30T03:00:09-05:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": [
+        "Child Abuse and Neglect",
+        "Gymnastics",
+        "Coaches and Managers",
+        "Suits and Litigation (Civil)",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [
+        "USA Gymnastics"
+      ],
+      "per_facet": [
+        "Haney, Maggie (1978- )",
+        "McCusker, Riley (2001- )",
+        "Hernandez, Laurie (2000- )"
+      ],
+      "geo_facet": null,
+      "related_urls": null,
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/30/sports/30gymnastics-haney1-print/30gymnastics-haney1-print-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Maggie Haney, the elite gymnastics coach, has been suspended for eight years by U.S.A. Gymnastics.",
+          "copyright": "Rachel Wisniewski for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/30/sports/30gymnastics-haney1-print/merlin_180410475_3d4a9608-f3de-4443-a12e-406c117caa06-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Maggie Haney, the elite gymnastics coach, has been suspended for eight years by U.S.A. Gymnastics.",
+          "copyright": "Rachel Wisniewski for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/30/sports/30gymnastics-haney1-print/merlin_180410475_3d4a9608-f3de-4443-a12e-406c117caa06-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Maggie Haney, the elite gymnastics coach, has been suspended for eight years by U.S.A. Gymnastics.",
+          "copyright": "Rachel Wisniewski for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/30/sports/30gymnastics-haney1-print/merlin_180410475_3d4a9608-f3de-4443-a12e-406c117caa06-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Maggie Haney, the elite gymnastics coach, has been suspended for eight years by U.S.A. Gymnastics.",
+          "copyright": "Rachel Wisniewski for The New York Times"
+        }
+      ]
+    },
+    {
+      "slug_name": "nhl-lake-hockey-elias-pettersson",
+      "section": "Sports",
+      "subsection": "Hockey",
+      "title": "For a Day, the N.H.L. Arena Moved to the Mountains",
+      "abstract": "Ferried by two helicopters, several N.H.L. players and a gold medal-winning figure skater played pickup hockey in a picturesque setting.",
+      "url": "https://www.nytimes.com/interactive/2020/11/29/sports/hockey/nhl-lake-hockey-elias-pettersson.html",
+      "byline": "BY GERALD NARCISO",
+      "thumbnail_standard": "https://static01.nyt.com/images/2020/11/29/sports/hockey/29-nhl-lake-hockey-elias-pettersson-1606592950091/29-nhl-lake-hockey-elias-pettersson-1606592950091-thumbStandard.jpg",
+      "item_type": "Interactive",
+      "source": "New York Times",
+      "updated_date": "2020-11-29T22:42:40-05:00",
+      "created_date": "2020-11-29T22:42:40-05:00",
+      "published_date": "2020-11-29T22:42:40-05:00",
+      "first_published_date": "2020-11-29T22:42:40-05:00",
+      "material_type_facet": "Interactive Feature",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": [
+        "Hockey, Ice",
+        "Helicopters"
+      ],
+      "org_facet": [
+        "Vancouver Canucks"
+      ],
+      "per_facet": [
+        "Pettersson, Elias"
+      ],
+      "geo_facet": [
+        "Canada",
+        "Vancouver (British Columbia)"
+      ],
+      "related_urls": null,
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/29/sports/hockey/29-nhl-lake-hockey-elias-pettersson-1606592950091/29-nhl-lake-hockey-elias-pettersson-1606592950091-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/29/sports/hockey/29-nhl-lake-hockey-elias-pettersson-1606592950091/29-nhl-lake-hockey-elias-pettersson-1606592950091-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/29/sports/hockey/29-nhl-lake-hockey-elias-pettersson-1606592950091/29-nhl-lake-hockey-elias-pettersson-1606592950091-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/29/sports/hockey/29-nhl-lake-hockey-elias-pettersson-1606592950091/29-nhl-lake-hockey-elias-pettersson-1606592950091-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ]
+    },
+    {
+      "slug_name": "29nfl-novsden",
+      "section": "Sports",
+      "subsection": "N.F.L.",
+      "title": "A New Outbreak Leaves a Broncos Rookie in an Awkward Position: Quarterback",
+      "abstract": "Receiver Kendall Hinton was a last resort fill-in when four Denver Broncos quarterbacks were ruled ineligible to play in Sunday\u2019s game because they\u2019d been exposed to the coronavirus.",
+      "url": "https://www.nytimes.com/2020/11/29/sports/football/broncos-saints-kendall-hinton.html",
+      "byline": "BY BEN SHPIGEL",
+      "thumbnail_standard": "https://static01.nyt.com/images/2020/11/29/sports/29novsden-1/29novsden-1-thumbStandard.jpg",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2020-11-29T22:54:17-05:00",
+      "created_date": "2020-11-29T21:44:22-05:00",
+      "published_date": "2020-11-29T21:44:22-05:00",
+      "first_published_date": "2020-11-29T21:44:22-05:00",
+      "material_type_facet": "News",
+      "kicker": "Saints 31, Broncos 3",
+      "subheadline": "",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Football",
+        "Disease Rates"
+      ],
+      "org_facet": [
+        "Denver Broncos",
+        "New Orleans Saints",
+        "National Football League"
+      ],
+      "per_facet": [
+        "Payton, Sean",
+        "Hinton, Kendall (1997- )"
+      ],
+      "geo_facet": null,
+      "related_urls": null,
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/29/sports/29novsden-1/29novsden-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kendall Hinton was pressed into quarterback duties when four Denver Broncos passers were ruled ineligible because of exposure to coronavirus. He connected on one of nine passes in Sunday\u2019s loss to the New Orleans Saints.",
+          "copyright": "Matthew Stockman/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/29/sports/29novsden-1/merlin_180621327_c8af233a-d6ac-484b-bedd-0bb6861ae821-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kendall Hinton was pressed into quarterback duties when four Denver Broncos passers were ruled ineligible because of exposure to coronavirus. He connected on one of nine passes in Sunday\u2019s loss to the New Orleans Saints.",
+          "copyright": "Matthew Stockman/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/29/sports/29novsden-1/merlin_180621327_c8af233a-d6ac-484b-bedd-0bb6861ae821-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kendall Hinton was pressed into quarterback duties when four Denver Broncos passers were ruled ineligible because of exposure to coronavirus. He connected on one of nine passes in Sunday\u2019s loss to the New Orleans Saints.",
+          "copyright": "Matthew Stockman/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/29/sports/29novsden-1/merlin_180621327_c8af233a-d6ac-484b-bedd-0bb6861ae821-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kendall Hinton was pressed into quarterback duties when four Denver Broncos passers were ruled ineligible because of exposure to coronavirus. He connected on one of nine passes in Sunday\u2019s loss to the New Orleans Saints.",
+          "copyright": "Matthew Stockman/Getty Images"
+        }
+      ]
+    },
+    {
+      "slug_name": "29nfl-wwl",
+      "section": "Sports",
+      "subsection": "N.F.L.",
+      "title": "What We Learned From Week 12 of the N.F.L. Season",
+      "abstract": "The Titans demolished the Colts, the Chiefs won again and the Broncos, with no quarterback, were crushed in a week defined as much by the coronavirus as the action on the field.",
+      "url": "https://www.nytimes.com/2020/11/29/sports/football/nfl-week-12-scores-results.html",
+      "byline": "BY BENJAMIN HOFFMAN",
+      "thumbnail_standard": "https://static01.nyt.com/images/2020/11/29/sports/29nfl-wwl-top/29nfl-wwl-top-thumbStandard-v2.jpg",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2020-11-30T09:09:55-05:00",
+      "created_date": "2020-11-29T19:54:58-05:00",
+      "published_date": "2020-11-29T19:54:58-05:00",
+      "first_published_date": "2020-11-29T19:54:58-05:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": [
+        "Football"
+      ],
+      "org_facet": [
+        "Indianapolis Colts",
+        "Tennessee Titans",
+        "National Football League",
+        "Buffalo Bills",
+        "Los Angeles Chargers",
+        "New England Patriots",
+        "Arizona Cardinals",
+        "Cleveland Browns",
+        "Jacksonville Jaguars",
+        "Minnesota Vikings",
+        "Carolina Panthers",
+        "Atlanta Falcons",
+        "Las Vegas Raiders",
+        "Miami Dolphins",
+        "New York Jets",
+        "New York Giants",
+        "Cincinnati Bengals"
+      ],
+      "per_facet": [
+        "Hill, Tyreek (1994- )",
+        "Henry, Derrick",
+        "Darnold, Sam (1997- )",
+        "Chinn, Jeremy (1998- )"
+      ],
+      "geo_facet": null,
+      "related_urls": null,
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/29/sports/29nfl-wwl-top/29nfl-wwl-top-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tennessee\u2019s Derrick Henry absolutely dominated in a crucial win over Indianapolis that gave the Titans sole possession of first place in the A.F.C. South.",
+          "copyright": "Darron Cummings/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/29/sports/29nfl-wwl-top/merlin_180617385_b3907d34-e7c5-44c2-9ffc-0be1498e2755-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tennessee\u2019s Derrick Henry absolutely dominated in a crucial win over Indianapolis that gave the Titans sole possession of first place in the A.F.C. South.",
+          "copyright": "Darron Cummings/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/29/sports/29nfl-wwl-top/merlin_180617385_b3907d34-e7c5-44c2-9ffc-0be1498e2755-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tennessee\u2019s Derrick Henry absolutely dominated in a crucial win over Indianapolis that gave the Titans sole possession of first place in the A.F.C. South.",
+          "copyright": "Darron Cummings/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/29/sports/29nfl-wwl-top/merlin_180617385_b3907d34-e7c5-44c2-9ffc-0be1498e2755-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tennessee\u2019s Derrick Henry absolutely dominated in a crucial win over Indianapolis that gave the Titans sole possession of first place in the A.F.C. South.",
+          "copyright": "Darron Cummings/Associated Press"
+        }
+      ]
+    },
+    {
+      "slug_name": "29giants-wire",
+      "section": "Sports",
+      "subsection": "N.F.L.",
+      "title": "Giants Seize Share of N.F.C. East Lead but Lose Daniel Jones",
+      "abstract": "The quarterback injured his hamstring in the third quarter and did not return as the Giants stretched their winning streak to three games.",
+      "url": "https://www.nytimes.com/2020/11/29/sports/football/giants-bengals-daniel-jones.html",
+      "byline": "BY THE ASSOCIATED PRESS",
+      "thumbnail_standard": "https://static01.nyt.com/images/2020/11/30/sports/29giants-print/29giants-2-thumbStandard.jpg",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2020-11-29T17:59:47-05:00",
+      "created_date": "2020-11-29T17:37:56-05:00",
+      "published_date": "2020-11-29T17:37:56-05:00",
+      "first_published_date": "2020-11-29T17:37:56-05:00",
+      "material_type_facet": "News",
+      "kicker": "giants 19, bengals 17",
+      "subheadline": "",
+      "des_facet": [
+        "Football"
+      ],
+      "org_facet": [
+        "Cincinnati Bengals",
+        "New York Giants"
+      ],
+      "per_facet": [
+        "Gallman, Wayne Jr (1994- )",
+        "Jones, Daniel (1997- )",
+        "McCoy, Colt"
+      ],
+      "geo_facet": null,
+      "related_urls": null,
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/30/sports/29giants-print/29giants-2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Giants quarterback Daniel Jones injured his hamstring in the second half and was replaced by Colt McCoy. Coach Joe Judge would not rule Jones out for next week&rsquo;s game in Seattle.",
+          "copyright": "Jamie Sabau/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/30/sports/29giants-print/merlin_180612993_eb959fa4-bfb9-4725-afd6-d54072e765eb-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Giants quarterback Daniel Jones injured his hamstring in the second half and was replaced by Colt McCoy. Coach Joe Judge would not rule Jones out for next week&rsquo;s game in Seattle.",
+          "copyright": "Jamie Sabau/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/30/sports/29giants-print/merlin_180612993_eb959fa4-bfb9-4725-afd6-d54072e765eb-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Giants quarterback Daniel Jones injured his hamstring in the second half and was replaced by Colt McCoy. Coach Joe Judge would not rule Jones out for next week&rsquo;s game in Seattle.",
+          "copyright": "Jamie Sabau/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/30/sports/29giants-print/merlin_180612993_eb959fa4-bfb9-4725-afd6-d54072e765eb-articleInline.jpg",
+          "format": "Normal",
+          "height": 136,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Giants quarterback Daniel Jones injured his hamstring in the second half and was replaced by Colt McCoy. Coach Joe Judge would not rule Jones out for next week&rsquo;s game in Seattle.",
+          "copyright": "Jamie Sabau/Getty Images"
+        }
+      ]
+    },
+    {
+      "slug_name": "29jets-wire",
+      "section": "Sports",
+      "subsection": "",
+      "title": "Jets\u2019 Offense Sputters in Sam Darnold\u2019s Return",
+      "abstract": "Miami quarterback Ryan Fitzpatrick stepped in to beat one of his many former teams, and the Jets (0-11), in Darnold\u2019s return from a shoulder injury, did not score a touchdown.",
+      "url": "https://www.nytimes.com/2020/11/29/sports/jets-dolphins-nfl-week-12.html",
+      "byline": "BY THE ASSOCIATED PRESS",
+      "thumbnail_standard": "https://static01.nyt.com/images/2020/11/29/sports/29nfl-jets-wire-web-1/29nfl-jets-wire-web-1-thumbStandard.jpg",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2020-11-29T18:29:46-05:00",
+      "created_date": "2020-11-29T16:50:26-05:00",
+      "published_date": "2020-11-29T16:50:26-05:00",
+      "first_published_date": "2020-11-29T16:50:26-05:00",
+      "material_type_facet": "News",
+      "kicker": "dolphins 20, jets 3",
+      "subheadline": "",
+      "des_facet": [
+        "Football"
+      ],
+      "org_facet": [
+        "New York Jets",
+        "Miami Dolphins",
+        "National Football League"
+      ],
+      "per_facet": [
+        "Fitzpatrick, Ryan",
+        "Darnold, Sam (1997- )",
+        "Gase, Adam (1978- )"
+      ],
+      "geo_facet": null,
+      "related_urls": null,
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/29/sports/29nfl-jets-wire-web-1/29nfl-jets-wire-web-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dolphins tight end Mike Gesicki, left, gave Miami the lead for good with this scoring catch.",
+          "copyright": "Vincent Carchietta/USA Today Sports, via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/29/sports/29nfl-jets-wire-web-1/merlin_180610497_78a375d6-7e5f-48ad-967c-48b0136c124f-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dolphins tight end Mike Gesicki, left, gave Miami the lead for good with this scoring catch.",
+          "copyright": "Vincent Carchietta/USA Today Sports, via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/29/sports/29nfl-jets-wire-web-1/merlin_180610497_78a375d6-7e5f-48ad-967c-48b0136c124f-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dolphins tight end Mike Gesicki, left, gave Miami the lead for good with this scoring catch.",
+          "copyright": "Vincent Carchietta/USA Today Sports, via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/29/sports/29nfl-jets-wire-web-1/merlin_180610497_78a375d6-7e5f-48ad-967c-48b0136c124f-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dolphins tight end Mike Gesicki, left, gave Miami the lead for good with this scoring catch.",
+          "copyright": "Vincent Carchietta/USA Today Sports, via Reuters"
+        }
+      ]
+    },
+    {
+      "slug_name": "29virus-collegefootball",
+      "section": "Sports",
+      "subsection": "College Football",
+      "title": "A Season of Footnotes Limps to Its Conclusion",
+      "abstract": "The wheezing college football show goes on without some star players and highly paid coaches and with, in one case, a female kicker.",
+      "url": "https://www.nytimes.com/2020/11/29/sports/ncaafootball/college-football-covid.html",
+      "byline": "BY BILLY WITZ",
+      "thumbnail_standard": "https://static01.nyt.com/images/2020/11/30/sports/29virus-collegefootball1-print/merlin_180578232_e6945fbe-ab97-43e4-9bfb-ef4f5cfdfd0e-thumbStandard.jpg",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2020-11-29T17:29:14-05:00",
+      "created_date": "2020-11-29T16:06:29-05:00",
+      "published_date": "2020-11-29T16:06:29-05:00",
+      "first_published_date": "2020-11-29T16:06:29-05:00",
+      "material_type_facet": "News",
+      "kicker": "On College Football",
+      "subheadline": "",
+      "des_facet": [
+        "Football (College)",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [
+        "Big Ten Conference",
+        "Ohio State University",
+        "Southeastern Conference"
+      ],
+      "per_facet": [
+        "Fuller, Sarah (Athlete)",
+        "Hancock, William R Jr (1950- )",
+        "Day, Ryan (1979- )"
+      ],
+      "geo_facet": null,
+      "related_urls": null,
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/30/sports/29virus-collegefootball1-print/merlin_180578232_e6945fbe-ab97-43e4-9bfb-ef4f5cfdfd0e-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Najee Harris scored on a long run in Alabama&rsquo;s 42-13 win against Auburn on Saturday. Alabama&rsquo;s coach, Nick Saban, was not on the sideline because he had tested positive for the coronavirus.",
+          "copyright": "Mickey Welsh/USA Today Sports, via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/30/sports/29virus-collegefootball1-print/merlin_180578232_e6945fbe-ab97-43e4-9bfb-ef4f5cfdfd0e-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Najee Harris scored on a long run in Alabama&rsquo;s 42-13 win against Auburn on Saturday. Alabama&rsquo;s coach, Nick Saban, was not on the sideline because he had tested positive for the coronavirus.",
+          "copyright": "Mickey Welsh/USA Today Sports, via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/30/sports/29virus-collegefootball1-print/merlin_180578232_e6945fbe-ab97-43e4-9bfb-ef4f5cfdfd0e-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Najee Harris scored on a long run in Alabama&rsquo;s 42-13 win against Auburn on Saturday. Alabama&rsquo;s coach, Nick Saban, was not on the sideline because he had tested positive for the coronavirus.",
+          "copyright": "Mickey Welsh/USA Today Sports, via Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/30/sports/29virus-collegefootball1-print/merlin_180578232_e6945fbe-ab97-43e4-9bfb-ef4f5cfdfd0e-articleInline.jpg",
+          "format": "Normal",
+          "height": 140,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Najee Harris scored on a long run in Alabama&rsquo;s 42-13 win against Auburn on Saturday. Alabama&rsquo;s coach, Nick Saban, was not on the sideline because he had tested positive for the coronavirus.",
+          "copyright": "Mickey Welsh/USA Today Sports, via Reuters"
+        }
+      ]
+    },
+    {
+      "slug_name": "29virus-briefing-sports-troubles",
+      "section": "Sports",
+      "subsection": "N.F.L.",
+      "title": "The virus has thrown the N.F.L. into disarray.",
+      "abstract": "",
+      "url": "https://www.nytimes.com/live/2020/11/29/world/covid-19-coronavirus/the-virus-has-thrown-the-nfl-into-disarray",
+      "byline": "BY KEN BELSON, BEN SHPIGEL AND JOHN ISMAY",
+      "thumbnail_standard": "https://static01.nyt.com/images/2020/11/29/us/29virus-briefing-sports-troubles-sub/29virus-briefing-sports-troubles-sub-thumbStandard.jpg",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2020-11-29T23:28:59-05:00",
+      "created_date": "2020-11-29T09:11:33-05:00",
+      "published_date": "2020-11-29T09:11:33-05:00",
+      "first_published_date": "2020-11-29T09:11:33-05:00",
+      "material_type_facet": "Live Blog Post",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": [
+        "internal-essential"
+      ],
+      "org_facet": null,
+      "per_facet": null,
+      "geo_facet": null,
+      "related_urls": null,
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/29/us/29virus-briefing-sports-troubles-sub/29virus-briefing-sports-troubles-sub-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The San Francisco 49ers can\u2019t practice or play at their home field for three weeks.",
+          "copyright": "Jed Jacobsohn/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/29/us/29virus-briefing-sports-troubles-sub/29virus-briefing-sports-troubles-sub-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The San Francisco 49ers can\u2019t practice or play at their home field for three weeks.",
+          "copyright": "Jed Jacobsohn/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/29/us/29virus-briefing-sports-troubles-sub/29virus-briefing-sports-troubles-sub-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The San Francisco 49ers can\u2019t practice or play at their home field for three weeks.",
+          "copyright": "Jed Jacobsohn/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/29/us/29virus-briefing-sports-troubles-sub/29virus-briefing-sports-troubles-sub-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The San Francisco 49ers can\u2019t practice or play at their home field for three weeks.",
+          "copyright": "Jed Jacobsohn/Associated Press"
+        }
+      ]
+    },
+    {
+      "slug_name": "29-nhl-lake-hockey-elias-pettersson",
+      "section": "Sports",
+      "subsection": "Hockey",
+      "title": "For One Day, the N.H.L. Arena Moved to the Mountains",
+      "abstract": "Several N.H.L. players and an Olympic gold medal-winning figure skater boarded helicopters bound for mountains outside Vancouver, British Columbia, to play pickup hockey in a picturesque setting.",
+      "url": "https://www.nytimes.com/interactive/2020/11/29/sports/hockey/29-nhl-lake-hockey-elias-pettersson.html",
+      "byline": "BY GERALD NARCISO",
+      "thumbnail_standard": "https://static01.nyt.com/images/2020/11/29/sports/29-nhl-lake-hockey-elias-pettersson-promo/29-nhl-lake-hockey-elias-pettersson-promo-thumbStandard.jpg",
+      "item_type": "Interactive",
+      "source": "New York Times",
+      "updated_date": "2020-11-30T15:25:41-05:00",
+      "created_date": "2020-11-29T05:00:01-05:00",
+      "published_date": "2020-11-29T05:00:01-05:00",
+      "first_published_date": "2020-11-29T05:00:01-05:00",
+      "material_type_facet": "Interactive Feature",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": [
+        "Glaciers",
+        "Hockey, Ice"
+      ],
+      "org_facet": [
+        "National Hockey League"
+      ],
+      "per_facet": [
+        "Pettersson, Elias"
+      ],
+      "geo_facet": [
+        "Canada"
+      ],
+      "related_urls": null,
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/29/sports/29-nhl-lake-hockey-elias-pettersson-promo/29-nhl-lake-hockey-elias-pettersson-promo-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Devin Olsen"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/29/sports/29-nhl-lake-hockey-elias-pettersson-promo/29-nhl-lake-hockey-elias-pettersson-promo-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Devin Olsen"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/29/sports/29-nhl-lake-hockey-elias-pettersson-promo/29-nhl-lake-hockey-elias-pettersson-promo-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Devin Olsen"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/29/sports/29-nhl-lake-hockey-elias-pettersson-promo/29-nhl-lake-hockey-elias-pettersson-promo-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Devin Olsen"
+        }
+      ]
+    },
+    {
+      "slug_name": "29cheerlebrities",
+      "section": "Sports",
+      "subsection": "",
+      "title": "The College Athletes Who Are Allowed to Make Big Bucks: Cheerleaders",
+      "abstract": "Because cheerleading is not governed by the N.C.A.A., its participants can sign lucrative endorsement deals that would lead to punishment for most college athletes, including soon-to-be N.F.L. and N.B.A. millionaires.",
+      "url": "https://www.nytimes.com/2020/11/29/sports/the-college-athletes-who-are-allowed-to-make-big-bucks-cheerleaders.html",
+      "byline": "BY TESS DEMEYER AND ILANA PANICH-LINSMAN",
+      "thumbnail_standard": "https://static01.nyt.com/images/2020/12/01/sports/00cheerleberties-slide-ZVDV/00cheerleberties-slide-ZVDV-thumbStandard.jpg",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2020-11-29T03:00:15-05:00",
+      "created_date": "2020-11-29T03:00:15-05:00",
+      "published_date": "2020-11-29T03:00:15-05:00",
+      "first_published_date": "2020-11-29T03:00:15-05:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": [
+        "Colleges and Universities",
+        "Cheerleaders",
+        "College Athletics",
+        "Wages and Salaries"
+      ],
+      "org_facet": null,
+      "per_facet": null,
+      "geo_facet": null,
+      "related_urls": null,
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/01/sports/00cheerleberties-slide-ZVDV/00cheerleberties-slide-ZVDV-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Shannon Woolsey, a Texas Tech cheerleader, getting help from her roommate and fellow cheerleader, Brooke Dumas, while creating content for one of her sponsors.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/12/01/sports/00cheerleberties-slide-ZVDV/00cheerleberties-slide-ZVDV-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Shannon Woolsey, a Texas Tech cheerleader, getting help from her roommate and fellow cheerleader, Brooke Dumas, while creating content for one of her sponsors.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/12/01/sports/00cheerleberties-slide-ZVDV/00cheerleberties-slide-ZVDV-mediumThreeByTwo440-v2.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Shannon Woolsey, a Texas Tech cheerleader, getting help from her roommate and fellow cheerleader, Brooke Dumas, while creating content for one of her sponsors.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/12/01/sports/00cheerleberties-slide-ZVDV/00cheerleberties-slide-ZVDV-articleInline.jpg",
+          "format": "Normal",
+          "height": 114,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Shannon Woolsey, a Texas Tech cheerleader, getting help from her roommate and fellow cheerleader, Brooke Dumas, while creating content for one of her sponsors.",
+          "copyright": ""
+        }
+      ]
+    },
+    {
+      "slug_name": "29onsoccer-maradona",
+      "section": "Sports",
+      "subsection": "Soccer",
+      "title": "Diego Maradona\u2019s Long Shadow",
+      "abstract": "From Ariel Ortega to Lionel Messi, dozens of players have been hailed as the next Maradona, the heir to his famed No. 10. But the fit was never perfect.",
+      "url": "https://www.nytimes.com/2020/11/29/sports/soccer/diego-maradona-lionel-messi.html",
+      "byline": "BY RORY SMITH",
+      "thumbnail_standard": "https://static01.nyt.com/images/2020/11/29/sports/29onsoccer-messi2/29onsoccer-messi2-thumbStandard.jpg",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2020-11-29T10:09:06-05:00",
+      "created_date": "2020-11-29T02:00:08-05:00",
+      "published_date": "2020-11-29T02:00:08-05:00",
+      "first_published_date": "2020-11-29T02:00:08-05:00",
+      "material_type_facet": "News",
+      "kicker": "On Soccer",
+      "subheadline": "",
+      "des_facet": [
+        "Soccer"
+      ],
+      "org_facet": [
+        "Boca Juniors (Soccer Team)"
+      ],
+      "per_facet": [
+        "Maradona, Diego",
+        "Messi, Lionel"
+      ],
+      "geo_facet": [
+        "Argentina"
+      ],
+      "related_urls": null,
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/29/sports/29onsoccer-messi2/29onsoccer-messi2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "After scoring on Sunday, Messi paid tribute to Maradona by removing his Barcelona jersey to reveal a Newell\u2019s Old Boys shirt. Messi played at the Argentine club before starting his career; Maradona spent time there near the end of his.",
+          "copyright": "Albert Gea/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/29/sports/29onsoccer-messi2/29onsoccer-messi2-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "After scoring on Sunday, Messi paid tribute to Maradona by removing his Barcelona jersey to reveal a Newell\u2019s Old Boys shirt. Messi played at the Argentine club before starting his career; Maradona spent time there near the end of his.",
+          "copyright": "Albert Gea/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/29/sports/29onsoccer-messi2/29onsoccer-messi2-mediumThreeByTwo440-v2.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "After scoring on Sunday, Messi paid tribute to Maradona by removing his Barcelona jersey to reveal a Newell\u2019s Old Boys shirt. Messi played at the Argentine club before starting his career; Maradona spent time there near the end of his.",
+          "copyright": "Albert Gea/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/29/sports/29onsoccer-messi2/merlin_180593277_39a88c30-b9e2-45ee-981f-f5bd35c53d96-articleInline.jpg",
+          "format": "Normal",
+          "height": 133,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "After scoring on Sunday, Messi paid tribute to Maradona by removing his Barcelona jersey to reveal a Newell\u2019s Old Boys shirt. Messi played at the Argentine club before starting his career; Maradona spent time there near the end of his.",
+          "copyright": "Albert Gea/Reuters"
+        }
+      ]
+    },
+    {
+      "slug_name": "28tyson-live-wrap-up",
+      "section": "Sports",
+      "subsection": "",
+      "title": "Well that turned out to be a fun night.",
+      "abstract": "",
+      "url": "https://www.nytimes.com/live/2020/11/28/sports/tyson-jones/well-that-turned-out-to-be-a-fun-night",
+      "byline": "BY KEVIN DRAPER",
+      "thumbnail_standard": "https://static01.nyt.com/images/2020/12/28/sports/28tyson-live15/28tyson-live15-thumbStandard.jpg",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2020-11-29T01:34:28-05:00",
+      "created_date": "2020-11-29T01:12:14-05:00",
+      "published_date": "2020-11-29T01:12:14-05:00",
+      "first_published_date": "2020-11-29T01:12:14-05:00",
+      "material_type_facet": "Live Blog Post",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": null,
+      "org_facet": null,
+      "per_facet": null,
+      "geo_facet": null,
+      "related_urls": null,
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/28/sports/28tyson-live15/28tyson-live15-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tyson, right, seemed OK with fighting to a draw. Jones quipped: \u201cI wear draws, I don\u2019t do draws.\u201d",
+          "copyright": "Joe Scarnici/Getty Images for Triller"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/12/28/sports/28tyson-live15/28tyson-live15-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tyson, right, seemed OK with fighting to a draw. Jones quipped: \u201cI wear draws, I don\u2019t do draws.\u201d",
+          "copyright": "Joe Scarnici/Getty Images for Triller"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/12/28/sports/28tyson-live15/28tyson-live15-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tyson, right, seemed OK with fighting to a draw. Jones quipped: \u201cI wear draws, I don\u2019t do draws.\u201d",
+          "copyright": "Joe Scarnici/Getty Images for Triller"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/12/28/sports/28tyson-live15/merlin_180583422_7b6e456a-f4e1-4057-9d18-7e458637a1fa-articleInline.jpg",
+          "format": "Normal",
+          "height": 174,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tyson, right, seemed OK with fighting to a draw. Jones quipped: \u201cI wear draws, I don\u2019t do draws.\u201d",
+          "copyright": "Joe Scarnici/Getty Images for Triller"
+        }
+      ]
+    },
+    {
+      "slug_name": "28tyson-live-fightsum",
+      "section": "Sports",
+      "subsection": "",
+      "title": "In the ring, neither fighter offered many surprises.",
+      "abstract": "",
+      "url": "https://www.nytimes.com/live/2020/11/28/sports/tyson-jones/in-the-ring-neither-fighter-offered-many-surprises",
+      "byline": "BY MORGAN CAMPBELL",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2020-11-29T01:02:54-05:00",
+      "created_date": "2020-11-29T01:02:54-05:00",
+      "published_date": "2020-11-29T01:02:54-05:00",
+      "first_published_date": "2020-11-29T01:02:54-05:00",
+      "material_type_facet": "Live Blog Post",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": null,
+      "org_facet": null,
+      "per_facet": null,
+      "geo_facet": null,
+      "related_urls": null,
+      "multimedia": null
+    },
+    {
+      "slug_name": "28tyson-live-r8",
+      "section": "Sports",
+      "subsection": "",
+      "title": "Round 8: Tyson wins the last frame (maybe) and the unofficial decision is a draw.",
+      "abstract": "",
+      "url": "https://www.nytimes.com/live/2020/11/28/sports/tyson-jones/round-8-tyson-wins-the-last-frame-maybe-and-the-unofficial-decision-is-a-draw",
+      "byline": "BY KEVIN DRAPER",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2020-11-29T00:31:16-05:00",
+      "created_date": "2020-11-29T00:30:10-05:00",
+      "published_date": "2020-11-29T00:30:10-05:00",
+      "first_published_date": "2020-11-29T00:30:10-05:00",
+      "material_type_facet": "Live Blog Post",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": null,
+      "org_facet": null,
+      "per_facet": null,
+      "geo_facet": null,
+      "related_urls": null,
+      "multimedia": null
+    },
+    {
+      "slug_name": "28tyson-live-r7",
+      "section": "Sports",
+      "subsection": "",
+      "title": "Round 7: Jones opens up and Tyson comes back.",
+      "abstract": "",
+      "url": "https://www.nytimes.com/live/2020/11/28/sports/tyson-jones/round-7-jones-opens-up-and-tyson-comes-back",
+      "byline": "BY MORGAN CAMPBELL",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2020-11-29T00:25:02-05:00",
+      "created_date": "2020-11-29T00:25:02-05:00",
+      "published_date": "2020-11-29T00:25:02-05:00",
+      "first_published_date": "2020-11-29T00:25:02-05:00",
+      "material_type_facet": "Live Blog Post",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": null,
+      "org_facet": null,
+      "per_facet": null,
+      "geo_facet": null,
+      "related_urls": null,
+      "multimedia": null
+    },
+    {
+      "slug_name": "28tyson-live-r6",
+      "section": "Sports",
+      "subsection": "",
+      "title": "Round 6: Tyson definitely went after that K.O. a few times.",
+      "abstract": "",
+      "url": "https://www.nytimes.com/live/2020/11/28/sports/tyson-jones/round-6-tyson-definitely-went-after-that-ko-a-few-times",
+      "byline": "BY KEVIN DRAPER",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2020-11-29T00:19:21-05:00",
+      "created_date": "2020-11-29T00:19:21-05:00",
+      "published_date": "2020-11-29T00:19:21-05:00",
+      "first_published_date": "2020-11-29T00:19:21-05:00",
+      "material_type_facet": "Live Blog Post",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": null,
+      "org_facet": null,
+      "per_facet": null,
+      "geo_facet": null,
+      "related_urls": null,
+      "multimedia": null
+    },
+    {
+      "slug_name": "28tyson-live-r5",
+      "section": "Sports",
+      "subsection": "",
+      "title": "Round 5: Tyson is opening up.",
+      "abstract": "",
+      "url": "https://www.nytimes.com/live/2020/11/28/sports/tyson-jones/round-5-tyson-is-opening-up",
+      "byline": "BY MORGAN CAMPBELL",
+      "item_type": "Article",
+      "source": "New York Times",
+      "updated_date": "2020-11-29T00:16:59-05:00",
+      "created_date": "2020-11-29T00:16:59-05:00",
+      "published_date": "2020-11-29T00:16:59-05:00",
+      "first_published_date": "2020-11-29T00:16:59-05:00",
+      "material_type_facet": "Live Blog Post",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": null,
+      "org_facet": null,
+      "per_facet": null,
+      "geo_facet": null,
+      "related_urls": null,
+      "multimedia": null
+    }
+  ]
+}
